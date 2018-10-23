@@ -1,0 +1,69 @@
+
+
+	body {
+	
+	margin:0;
+    background: -moz-linear-gradient(top, rgba(6,0,0,1) 23%, rgba(233,113,53,1) 61%, rgba(239,40,4,1) 90%);
+
+     	
+
+}
+
+
+.contenedor{
+	
+    background: -moz-linear-gradient(top, rgba(6,0,0,1) 23%, rgba(233,113,53,1) 61%, rgba(239,40,4,1) 90%);
+    
+    background: url(../im/0016672_platos-calavera-halloween-8m.png);
+    background-size: cover;
+
+	height:650px;
+			
+}			
+
+
+.barra{
+ 
+ 	width: 100%;
+ 	background-color: rgba(0,0,255,0.3);
+ 
+	border:1px solid blue;
+}
+
+.barra ul{
+	
+	list-style: none;
+	margin:0;
+	padding: 0;
+	
+
+
+}
+
+.barra ul li{
+
+
+	display: inline-block;
+	
+}
+
+.barra ul li a{
+
+	text-decoration:none;
+	color: white;
+	display: block;
+	font-weight: bold;
+	padding:2em;
+
+
+
+}
+
+.barra ul li a:hover{
+
+	text-decoration:none;
+	color: black;
+	background-color: white;
+
+
+}
